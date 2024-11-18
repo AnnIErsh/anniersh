@@ -1,6 +1,6 @@
-## iOS dev 📱 <br /> 
-## macOS dev 👩🏼‍💻 <br /> 
-## SWE 👩🏼‍🎓 <br /> 
+## iOS developer 📱 <br /> 
+## macOS developer 👩🏼‍💻 <br /> 
+## Software Engineering Student 👩🏼‍🎓 <br /> 
 ### MSc in Mathematics and Mechanics 🎓 <br /> 
 
 Hobbies & Interests: Technologies, programming, science, 🎸
